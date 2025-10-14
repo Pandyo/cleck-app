@@ -13,9 +13,8 @@ export default function Home() {
           clerk.com
         </Link>
         <p className="mb-2">
-          This is a demo of Clerk authentication. Clerk is more than a "sign-in
-          box." Integrate complete user management UIs and APIs, purpose-built
-          for React, Next.js, and the Modern Web.
+        This is a demo of Clerk authentication. Clerk is more than a &quot;sign-in box.&quot; 
+        Integrate complete user management UIs and APIs, purpose-built for React, Next.js, and the Modern Web.
         </p>
       </div>
 
